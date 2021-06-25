@@ -1,5 +1,5 @@
-# Curso Dominando Data Science - FLAI
+## Curso Dominando Data Science - FLAI
 
-## Projetos realizados durante o curso
+### Projetos realizados durante o curso
 
-**Modulo 01 - People Analystics**
+**Modulo 01 - People Analytics**

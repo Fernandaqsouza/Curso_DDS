@@ -1,3 +1,11 @@
 PROJETO PEOPLE ANALYTICS
 
-Projeto realizado para analisar indicadores relacionados à pessoas de uma determinada empresa.
+Projeto realizado para analisar indicadores relacionados à pessoas de uma determinada empresa
+
+> TRATAMENTO DE DADOS:
+Conjunto de dados retirado da plataforma kaggle.com no formato .csv
+Importação dos dados para o Power Query
+
+
+
+

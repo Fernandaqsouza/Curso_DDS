@@ -10,5 +10,5 @@
 #### Modulo 02:
 **Projeto Clientes** - Dashboard utilizando o power BI com o objetivo de analisar indicadores relacionados a clientes de cartão de crédito (versão realizada com a professora)
 
-#### Data Insights:
+#### Modulo Data Insights:
 **Projeto Análise de Vendas** - Dashboard utilizando o power BI com o objetivo de analisar indicadores relacionados a vendas de uma rede de supermercados (versão realizada com a professora)
